@@ -1,3 +1,13 @@
+h1 {
+    font-size: 80px;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
